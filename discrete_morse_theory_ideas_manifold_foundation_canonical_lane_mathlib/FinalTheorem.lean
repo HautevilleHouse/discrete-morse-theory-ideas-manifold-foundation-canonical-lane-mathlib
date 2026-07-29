@@ -1,0 +1,9 @@
+import discrete_morse_theory_ideas_manifold_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace discrete_morse_theory_ideas_manifold_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end discrete_morse_theory_ideas_manifold_foundation_canonical_lane_mathlib
+end HautevilleHouse
